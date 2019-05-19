@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# To run: 
+# (i) sh changeDateResizeDigitalPhotoFrame.sh or
+# (ii) chmod a+x changeDateResizeDigitalPhotoFrame.sh and ./changeDateResizeDigitalPhotoFrame.sh
+
 #variables
 convert=0
 resize_alert=0;
